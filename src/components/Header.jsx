@@ -53,8 +53,6 @@ const Header = () => {
     <ul className=" hidden md:flex gap-3 ">
     <li><Link to="/">Home</Link></li>
     <li><Link to="/addblog">Write</Link></li>
-    <li>About</li>
-    <li>Contact</li>
     <li>LogOut</li>
     </ul>
     
